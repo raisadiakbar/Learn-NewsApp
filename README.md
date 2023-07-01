@@ -1,1 +1,1 @@
-# Lagi-Gosip
+# NewsApp
