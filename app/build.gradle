@@ -18,6 +18,7 @@ android {
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         vectorDrawables.useSupportLibrary = true
         buildConfigField("String", "API_KEY", '"6c7e12d410ca4d1897335e5b296b437f"')
+        buildConfigField("String", "COUNTRY", "\"Indonesia\"")
     }
 
     buildTypes {
